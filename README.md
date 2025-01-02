@@ -9,8 +9,7 @@ Welcome to **My Github**, every problem can be solved with enough caffeine.
 
 ## 🚀 About Me
 - 💻 I'm a software developer **Full-Stack Development**.
-- 🎓 Proud graduate of **Ctrl+C, Ctrl+V University** (with a minor in StackOverflow and a PhD in Asking GPT to Debug My Code).  
-- 🏆 Passionate about creating impactful applications and contributing to open-source projects.
+- 🎓 Proud graduate of **Ctrl+C, Ctrl+V University** (with a minor in StackOverflow and a PhD in Asking GPT to Debug My Code).
 
 ## 💬 Fun Facts  
 - I talk to my code. Sometimes it listens.  
