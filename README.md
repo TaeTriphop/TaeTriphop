@@ -4,7 +4,7 @@
 
 # 👋😎 I'm tae!
 
-Welcome to **My Github**, every problem can be solved with enough caffeine.  
+Welcome to **My Github**, Every problem can be solved with enough caffeine.  
 
 
 ## 🚀 About Me
