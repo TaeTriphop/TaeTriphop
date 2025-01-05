@@ -21,9 +21,9 @@ Welcome to **My Github**, Every problem can be solved with enough caffeine.
 - **Tools:** Git, SQL Server, Azure (Basic), Docker (Basic), Postman, Confluence
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](hhttps://www.linkedin.com/in/taeTriphop/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/taeTriphop/)
 [![Web](https://img.shields.io/badge/Portfolio-Website-orange?logo=google-chrome)](https://taetriphop.github.io/g9h/)
-[![Resume](https://img.shields.io/badge/My-Resume-yellow?logo=readthedocs)]([https://taetriphop.github.io/g9h/](https://drive.google.com/drive/folders/1Wv3ga3Jok8-UvYM3OSa-34UXOP8_ohwV?usp=sharing))
+[![Resume](https://img.shields.io/badge/My-Resume-yellow?logo=readthedocs)](https://drive.google.com/drive/folders/1Wv3ga3Jok8-UvYM3OSa-34UXOP8_ohwV?usp=sharing)
 [![Line](https://img.shields.io/badge/Contact-Line-green)](https://drive.google.com/drive/folders/1Me4hgGdX0N0FMZmHM6yWrKH_AbOiuf32)
 
 
